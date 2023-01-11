@@ -1,6 +1,6 @@
 [
 {"city" : "Florida",     	"mascot" : "Bobcats",	  	"short" : "FLA",	"homeText" : "C1C6C8",	"homeMain" : "010101",	"homeSecondary" : "00B2A9",	"awayText" : "010101",	"awayMain" : "FFFFFF",  "awaySecondary" : "00B2A9"},
-{"city" : "Houston",   	"mascot" : "ThunderBears",		"short" : "HOU", 	"homeText" : "009CA6",	"homeMain" : "051C2C",	"homeSecondary" : "FA4616",	"awayText" : "051C2C",	"awayMain" : "FFFFFF",  "awaySecondary" : "FA4616"},
+{"city" : "Houston",   	"mascot" : "ThunderBears",		"short" : "HOU", 	"homeText" : "FFFFFF",	"homeMain" : "051C2C",	"homeSecondary" : "FA4616",	"awayText" : "051C2C",	"awayMain" : "FFFFFF",  "awaySecondary" : "FA4616"},
 {"city" : "New Orleans",     	"mascot" : "Night",			"short" : "NO", 	"homeText" : "FFFFFF",	"homeMain" : "010101",	"homeSecondary" : "FFAA4D",	"awayText" : "010101",	"awayMain" : "FFFFFF",  "awaySecondary" : "EF3340"},
 {"city" : "St. Louis",   	"mascot" : "Stampede",	    "short" : "STL", 	"homeText" : "010101",	"homeMain" : "EF3340",	"homeSecondary" : "FFCD00",	"awayText" : "FFCD00",	"awayMain" : "FFFFFF",  "awaySecondary" : "0B2265"},
 {"city" : "Chicago",  		"mascot" : "Bruisers",	    "short" : "CHI", 	"homeText" : "FFFFFF",	"homeMain" : "010101",	"homeSecondary" : "418FDE",	"awayText" : "010101",	"awayMain" : "FFFFFF",  "awaySecondary" : "418FDE"},
