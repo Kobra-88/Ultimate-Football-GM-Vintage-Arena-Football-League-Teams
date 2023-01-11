@@ -22,7 +22,7 @@
 {"city" : "Cincinnati", 		"mascot" : "Rockers",		"short" : "CIN", 	"homeText" : "FFD100",	"homeMain" : "046A38",	"homeSecondary" : "FFFFFF",	"awayText" : "FFD100",	"awayMain" : "FFFFFF",  "awaySecondary" : "046A38"},
 {"city" : "Detroit",    	"mascot" : "Drive",		"short" : "DET", 	"homeText" : "FFFFFF",	"homeMain" : "41B6E6",	"homeSecondary" : "FF6720",	"awayText" : "FF6720",	"awayMain" : "FFFFFF",  "awaySecondary" : "41B6E6"},
 {"city" : "Iowa",		"mascot" : "Barnstormers",			"short" : "IOW", 	"homeText" : "E4002B",	"homeMain" : "010101",	"homeSecondary" : "89764B",	"awayText" : "E4002B",	"awayMain" : "FFFFFF",  "awaySecondary" : "89764B"},
-{"city" : "Milwaukee",		"mascot" : "Mustangs",	  		"short" : "MIL", 	"homeText" : "FFFFFF",	"homeMain" : "753BBD",	"homeSecondary" : "003B98",	"awayText" : "003B98",	"awayMain" : "FFFFFF",  "awaySecondary" : "753BBD"},
+{"city" : "Milwaukee",		"mascot" : "Mustangs",	  		"short" : "MIL", 	"homeText" : "FFFFFF",	"homeMain" : "753BBD",	"homeSecondary" : "00B398",	"awayText" : "00B398",	"awayMain" : "FFFFFF",  "awaySecondary" : "753BBD"},
 {"city" : "Connecticut",      "mascot" : "Coyotes",	"short" : "CON", 	"homeText" : "DA291C",	"homeMain" : "0C2340",	"homeSecondary" : "B2B4B2",	"awayText" : "0C2340",	"awayMain" : "FFFFFF",  "awaySecondary" : "B2B4B2"},
 {"city" : "New England",     	"mascot" : "Steamrollers",	  		"short" : "NE", 	"homeText" : "FFFFFF",	"homeMain" : "FA4616",	"homeSecondary" : "010101",	"awayText" : "FA4616",	"awayMain" : "FFFFFF",  "awaySecondary" : "FA4616"},
 {"city" : "New York", 	"mascot" : "CityHawks",			"short" : "NYC", 	"homeText" : "A88622",	"homeMain" : "512D6D",	"homeSecondary" : "A88622",	"awayText" : "A88622",	"awayMain" : "FFFFFF",  "awaySecondary" : "A88622"},
